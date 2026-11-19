@@ -62,7 +62,7 @@ binaries, explicit error handling, and benchmarks that don't lie.
 
 <div align="center">
   <a href="https://github.com/TheNonConformist?tab=achievements">
-    <img src="https://img.shields.io/badge/native%20achievements-YOLO-39D353?style=flat-square&logo=github&labelColor=0D1117" alt="GitHub achievements: YOLO" />
+    <img src="https://img.shields.io/badge/achievements-Quickdraw%20%2B%20YOLO-39D353?style=flat-square&logo=github&labelColor=0D1117" alt="GitHub achievements: Quickdraw and YOLO" />
   </a>
 </div>
 
