@@ -4,3 +4,4 @@ settings:
   disabled_events:
     - comments
     - pr_open
+    - push
