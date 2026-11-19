@@ -1,0 +1,43 @@
+name: Pixel profile cards
+
+on:
+  schedule:
+    - cron: "20 2 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - "tools/gen_profile.py"
+      - "tools/gen_hero.py"
+      - ".github/workflows/pixel.yml"
+
+concurrency:
+  group: pixel-profile
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate pixel cards
+        env:
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          PROFILE_USER: TheNonConformist
+        run: python tools/gen_profile.py
+
+      - name: Commit refreshed cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/stats-pixel.svg assets/contrib-pixel.svg assets/quests-pixel.svg
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: refresh pixel profile cards"
+          git pull --rebase
+          git push

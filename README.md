@@ -50,32 +50,15 @@ C · C++ · CUDA · PYTHON · BASH · LINUX · ARCH · NEOVIM · TMUX · DOCKER 
 ## ▍ stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TheNonConformist&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0A0C10&title_color=E2603F&icon_color=E2603F&text_color=E8E3D5" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNonConformist&layout=compact&langs_count=8&hide_border=true&bg_color=0A0C10&title_color=E2603F&text_color=E8E3D5" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img width="98%" src="https://streak-stats.demolab.com?user=TheNonConformist&hide_border=true&background=0A0C10&stroke=2A303C&ring=E2603F&fire=E2603F&currStreakNum=E8E3D5&currStreakLabel=E2603F&sideNums=E8E3D5&sideLabels=7D8290&dates=7D8290" alt="Contribution streak" />
+  <img width="100%" src="./assets/stats-pixel.svg" alt="Pixel system stats" />
 </div>
 
 <br />
 
-## ▍ metrics
+## ▍ contributions
 
 <div align="center">
-  <img width="72%" src="https://raw.githubusercontent.com/TheNonConformist/TheNonConformist/main/github-metrics.svg" alt="GitHub metrics: languages, contribution calendar, lines of code" />
-</div>
-
-<br />
-
-## ▍ activity
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TheNonConformist&bg_color=0A0C10&color=E2603F&line=E2603F&point=E8E3D5&area=true&area_color=E2603F&hide_border=true&custom_title=contribution%20activity" alt="Contribution activity graph" />
-</div>
-
-<div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/TheNonConformist/TheNonConformist/main/profile-3d-contrib/profile-night-green.svg" alt="3D contribution calendar" />
+  <img width="100%" src="./assets/contrib-pixel.svg" alt="Pixel contribution calendar" />
 </div>
 
 <div align="center">
@@ -84,6 +67,14 @@ C · C++ · CUDA · PYTHON · BASH · LINUX · ARCH · NEOVIM · TMUX · DOCKER 
 _warming up…_
 <!--RECENT_ACTIVITY:end-->
 
+</div>
+
+<br />
+
+## ▍ quests
+
+<div align="center">
+  <img width="100%" src="./assets/quests-pixel.svg" alt="Pixel quest log" />
 </div>
 
 <br />
