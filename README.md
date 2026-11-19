@@ -60,12 +60,18 @@ binaries, explicit error handling, and benchmarks that don't lie.
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=TheNonConformist&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
 </div>
 
+<div align="center">
+  <a href="https://github.com/TheNonConformist?tab=achievements">
+    <img src="https://img.shields.io/badge/native%20achievements-YOLO-39D353?style=flat-square&logo=github&labelColor=0D1117" alt="GitHub achievements: YOLO" />
+  </a>
+</div>
+
 <br />
 
 ### `❯ ./metrics --all`
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/TheNonConformist/TheNonConformist/main/github-metrics.svg" alt="GitHub metrics: achievements, languages, habits, isocalendar" />
+  <img width="100%" src="https://raw.githubusercontent.com/TheNonConformist/TheNonConformist/main/github-metrics.svg" alt="GitHub metrics: languages, contribution calendar, stars" />
 </div>
 
 <br />
