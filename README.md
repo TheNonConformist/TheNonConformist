@@ -1,16 +1,18 @@
 <div align="center">
-  <img src="./assets/terminal.svg" alt="theconformist@github — terminal profile card" width="100%" />
+  <img src="./assets/hero-pixel.svg" alt="TheNonConformist — pixel character sheet" width="100%" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/TheNonConformist">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=39D353&center=true&vCenter=true&width=860&lines=%24+whoami;systems+programmer+%C2%B7+rust+%C2%B7+c+%C2%B7+python;building+small%2C+fast%2C+correct+things;currently+reading+rust-lang+internals" alt="typing animation" />
-  </a>
+  <sub>
+    <a href="https://github.com/TheNonConformist?tab=achievements">achievements</a> ·
+    <a href="https://github.com/TheNonConformist?tab=repositories">repositories</a> ·
+    <a href="mailto:nonconformistrizwan@gmail.com">email</a>
+  </sub>
 </div>
 
 <br />
 
-### `❯ cat about.txt`
+## ▍ about
 
 I build systems software and care about what happens below the abstraction.
 
@@ -26,15 +28,15 @@ binaries, explicit error handling, and benchmarks that don't lie.
 
 <br />
 
-### `❯ stack --list`
+## ▍ stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=rust,c,cpp,python,lua,bash,linux,arch,neovim,docker,git,github&theme=dark&perline=12" alt="Rust, C, C++, Python, Lua, Bash, Linux, Arch, Neovim, Docker, Git, GitHub" />
-</div>
+```txt
+RUST · C · PYTHON · LUA · BASH · LINUX · ARCH · NEOVIM · TMUX · DOCKER · GIT
+```
 
 <br />
 
-### `❯ ls ~/work`
+## ▍ work
 
 | project | what it is | stack |
 | :--- | :--- | :--- |
@@ -45,33 +47,20 @@ binaries, explicit error handling, and benchmarks that don't lie.
 
 <br />
 
-### `❯ ./stats.sh`
+## ▍ stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TheNonConformist&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=C9D1D9" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNonConformist&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=C9D1D9" alt="Top languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TheNonConformist&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0A0C10&title_color=E2603F&icon_color=E2603F&text_color=E8E3D5" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNonConformist&layout=compact&langs_count=8&hide_border=true&bg_color=0A0C10&title_color=E2603F&text_color=E8E3D5" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img width="98%" src="https://streak-stats.demolab.com?user=TheNonConformist&hide_border=true&background=0D1117&stroke=21262D&ring=39D353&fire=39D353&currStreakNum=C9D1D9&currStreakLabel=39D353&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" alt="Contribution streak" />
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheNonConformist&theme=github_dark" alt="GitHub profile summary" />
-</div>
-
-<div align="center">
-  <a href="https://github.com/TheNonConformist?tab=achievements">
-    <img src="https://img.shields.io/badge/Pull%20Shark-x2-39D353?style=flat-square&logo=github&labelColor=0D1117" alt="Pull Shark Bronze" />
-    <img src="https://img.shields.io/badge/Galaxy%20Brain-x2-39D353?style=flat-square&logo=github&labelColor=0D1117" alt="Galaxy Brain Bronze" />
-    <img src="https://img.shields.io/badge/Quickdraw-39D353?style=flat-square&logo=github&labelColor=0D1117" alt="Quickdraw" />
-    <img src="https://img.shields.io/badge/YOLO-39D353?style=flat-square&logo=github&labelColor=0D1117" alt="YOLO" />
-  </a>
+  <img width="98%" src="https://streak-stats.demolab.com?user=TheNonConformist&hide_border=true&background=0A0C10&stroke=2A303C&ring=E2603F&fire=E2603F&currStreakNum=E8E3D5&currStreakLabel=E2603F&sideNums=E8E3D5&sideLabels=7D8290&dates=7D8290" alt="Contribution streak" />
 </div>
 
 <br />
 
-### `❯ ./metrics --all`
+## ▍ metrics
 
 <div align="center">
   <img width="72%" src="https://raw.githubusercontent.com/TheNonConformist/TheNonConformist/main/github-metrics.svg" alt="GitHub metrics: languages, contribution calendar, lines of code" />
@@ -79,10 +68,10 @@ binaries, explicit error handling, and benchmarks that don't lie.
 
 <br />
 
-### `❯ tail -f activity.log`
+## ▍ activity
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TheNonConformist&bg_color=0D1117&color=39D353&line=39D353&point=C9D1D9&area=true&area_color=39D353&hide_border=true&custom_title=contribution%20activity" alt="Contribution activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TheNonConformist&bg_color=0A0C10&color=E2603F&line=E2603F&point=E8E3D5&area=true&area_color=E2603F&hide_border=true&custom_title=contribution%20activity" alt="Contribution activity graph" />
 </div>
 
 <div align="center">
@@ -92,16 +81,14 @@ binaries, explicit error handling, and benchmarks that don't lie.
 <div align="center">
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#28](https://github.com/ThouSyntaxTerror/SE_MiniProject_Railway_Reservation/pull/28#pullrequestreview-5971393967) in [ThouSyntaxTerror/SE_MiniProject_Railway_Reservation](https://github.com/ThouSyntaxTerror/SE_MiniProject_Railway_Reservation)<br>
-2. 👍 Approved [#21](https://github.com/ThouSyntaxTerror/SE_MiniProject_Railway_Reservation/pull/21#pullrequestreview-5970053738) in [ThouSyntaxTerror/SE_MiniProject_Railway_Reservation](https://github.com/ThouSyntaxTerror/SE_MiniProject_Railway_Reservation)<br>
-3. 🔱 Forked [TheNonConformist/26_bubbleBobble](https://github.com/TheNonConformist/26_bubbleBobble) from [SETAPESU26/26_bubbleBobble](https://github.com/SETAPESU26/26_bubbleBobble)<br>
+_warming up…_
 <!--RECENT_ACTIVITY:end-->
 
 </div>
 
 <br />
 
-### `❯ ./snake.sh`
+## ▍ snake
 
 <div align="center">
   <picture>
@@ -113,7 +100,7 @@ binaries, explicit error handling, and benchmarks that don't lie.
 
 <br />
 
-### `❯ tail -f principles.log`
+## ▍ principles
 
 > Make it work. Make it right. Make it fast — in that order.
 > If it needs a framework to print a line, it doesn't need to exist.
@@ -121,12 +108,14 @@ binaries, explicit error handling, and benchmarks that don't lie.
 
 <br />
 
+## ▍ contact
+
 <div align="center">
   <a href="mailto:nonconformistrizwan@gmail.com">
-    <img src="https://img.shields.io/badge/email-0D1117?style=for-the-badge&logo=gmail&logoColor=39D353&labelColor=0D1117" alt="Email" />
+    <img src="https://img.shields.io/badge/email-0A0C10?style=for-the-badge&logo=gmail&logoColor=E2603F&labelColor=0A0C10" alt="Email" />
   </a>
   <a href="https://github.com/TheNonConformist">
-    <img src="https://img.shields.io/badge/github-0D1117?style=for-the-badge&logo=github&logoColor=39D353&labelColor=0D1117" alt="GitHub" />
+    <img src="https://img.shields.io/badge/github-0A0C10?style=for-the-badge&logo=github&logoColor=E2603F&labelColor=0A0C10" alt="GitHub" />
   </a>
 </div>
 

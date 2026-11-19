@@ -39,8 +39,10 @@ gh secret set METRICS_TOKEN --repo TheNonConformist/TheNonConformist
 
 ## Customize
 
-- Accent color: replace `39D353` in `README.md` and `assets/terminal.svg`.
-- Terminal copy: edit the `<text>` elements in `assets/terminal.svg`.
+- Hero: edit `tools/gen_hero.py`, then run `python3 tools/gen_hero.py`. It regenerates
+  `assets/hero-pixel.svg` with the same pixel grid, font and animations.
+- Accent palette: constants at the top of `tools/gen_hero.py` (`RUST`, `CREAM`, `GREEN`) and
+  the hex values in `README.md` for the third-party cards.
 - Activity feed: `.github/recent-activity.config.yml` (`max_lines`, `disabled_events`, `ignored_repos`).
 - Metrics plugins: `.github/workflows/metrics.yml`.
 
@@ -60,6 +62,5 @@ show them a few days late. The README badges reflect the earned tiers in the mea
 - `lowlighter/metrics`' achievements plugin currently errors because GitHub deprecated
   Projects (classic) in the GraphQL query it uses. Removed it; the README badge row
   links to the real Achievements tab instead.
-- `github-profile-trophy` returns HTTP 402 on the public instance, so the trophy case
-  was replaced with `github-profile-summary-cards`.
+- `github-profile-trophy` returns HTTP 402 on the public instance, so it is not used.
 - Third-party cards are rate-limited by their hosts. If one breaks, retry or self-host.
