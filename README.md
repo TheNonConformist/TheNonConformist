@@ -84,10 +84,9 @@ binaries, explicit error handling, and benchmarks that don't lie.
 
 <!--RECENT_ACTIVITY:start-->
 1. 👍 Approved [#28](https://github.com/ThouSyntaxTerror/SE_MiniProject_Railway_Reservation/pull/28#pullrequestreview-5971393967) in [ThouSyntaxTerror/SE_MiniProject_Railway_Reservation](https://github.com/ThouSyntaxTerror/SE_MiniProject_Railway_Reservation)<br>
-2. 💬 Commented on [#26](https://github.com/ThouSyntaxTerror/SE_MiniProject_Railway_Reservation/pull/26#issuecomment-7001909643) in [ThouSyntaxTerror/SE_MiniProject_Railway_Reservation](https://github.com/ThouSyntaxTerror/SE_MiniProject_Railway_Reservation)<br>
-3. 💬 Commented on [#25](https://github.com/ThouSyntaxTerror/SE_MiniProject_Railway_Reservation/pull/25#issuecomment-7001908014) in [ThouSyntaxTerror/SE_MiniProject_Railway_Reservation](https://github.com/ThouSyntaxTerror/SE_MiniProject_Railway_Reservation)<br>
-4. 💬 Commented on [#24](https://github.com/ThouSyntaxTerror/SE_MiniProject_Railway_Reservation/pull/24#issuecomment-7001906226) in [ThouSyntaxTerror/SE_MiniProject_Railway_Reservation](https://github.com/ThouSyntaxTerror/SE_MiniProject_Railway_Reservation)<br>
-5. 💬 Commented on [#23](https://github.com/ThouSyntaxTerror/SE_MiniProject_Railway_Reservation/pull/23#issuecomment-7001904627) in [ThouSyntaxTerror/SE_MiniProject_Railway_Reservation](https://github.com/ThouSyntaxTerror/SE_MiniProject_Railway_Reservation)<br>
+2. 💪 Opened PR [#26](undefined) in [ThouSyntaxTerror/SE_MiniProject_Railway_Reservation](https://github.com/ThouSyntaxTerror/SE_MiniProject_Railway_Reservation)<br>
+3. 💪 Opened PR [#25](undefined) in [ThouSyntaxTerror/SE_MiniProject_Railway_Reservation](https://github.com/ThouSyntaxTerror/SE_MiniProject_Railway_Reservation)<br>
+4. 💪 Opened PR [#24](undefined) in [ThouSyntaxTerror/SE_MiniProject_Railway_Reservation](https://github.com/ThouSyntaxTerror/SE_MiniProject_Railway_Reservation)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
