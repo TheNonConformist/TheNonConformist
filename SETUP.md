@@ -44,11 +44,22 @@ gh secret set METRICS_TOKEN --repo TheNonConformist/TheNonConformist
 - Activity feed: `.github/recent-activity.config.yml` (`max_lines`, `disabled_events`, `ignored_repos`).
 - Metrics plugins: `.github/workflows/metrics.yml`.
 
+## Achievements
+
+Earned: **Pull Shark x2 (Bronze)**, **Galaxy Brain x2 (Bronze)**, **Quickdraw**, **YOLO**.
+Qualifying activity lives in the separate private repo `systems-lab` (16 merged PRs,
+8 self-answered Q&A discussions); no existing repository was used for badge activity.
+
+Quickdraw and YOLO display immediately. Pull Shark and Galaxy Brain are counted in GitHub's
+milestone data but still waiting on the profile-rendering queue (tracked in
+[community#203416](https://github.com/orgs/community/discussions/203416)), so the sidebar may
+show them a few days late. The README badges reflect the earned tiers in the meantime.
+
 ## Known issues
 
 - `lowlighter/metrics`' achievements plugin currently errors because GitHub deprecated
-  Projects (classic) in the GraphQL query it uses. Removed it; the static
-  `native achievements — YOLO` badge links to the real Achievements tab instead.
+  Projects (classic) in the GraphQL query it uses. Removed it; the README badge row
+  links to the real Achievements tab instead.
 - `github-profile-trophy` returns HTTP 402 on the public instance, so the trophy case
   was replaced with `github-profile-summary-cards`.
 - Third-party cards are rate-limited by their hosts. If one breaks, retry or self-host.
