@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/hero-nightshift.svg" alt="TheNonConformist — NIGHT SHIFT pixel CRT room" width="100%" />
+  <img src="./assets/hero-silicon.svg" alt="TheNonConformist — SILICON GPU die floorplan" width="100%" />
 </div>
 
 <div align="center">

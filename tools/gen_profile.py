@@ -165,7 +165,7 @@ def stat_card(user, repos, contributions, languages):
             color = LANG_COLORS.get(name, ORANGE) if seg < filled else "#171c24"
             b.append(rect(x + seg * 19, 202, 16, 12, color))
 
-    b.append(text(40, 250, "FOCUS  C / C++ / CUDA / PYTHON", 2, MUTED))
+    b.append(text(40, 250, "FOCUS  C / C++ / CUDA / HPC / ML", 2, MUTED))
     b.append(text(1140, 250, "SINCE 2025", 2, DIM, anchor="end"))
     return svg_doc(w, h, "".join(b), "GitHub system stats")
 
