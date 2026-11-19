@@ -3,3 +3,4 @@ settings:
   commit_msg: "chore: update recent activity"
   disabled_events:
     - comments
+    - pr_open

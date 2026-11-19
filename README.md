@@ -57,7 +57,7 @@ binaries, explicit error handling, and benchmarks that don't lie.
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=TheNonConformist&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheNonConformist&theme=github_dark" alt="GitHub profile summary" />
 </div>
 
 <div align="center">
