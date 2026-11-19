@@ -235,7 +235,7 @@ def build():
 
     # middle: attributes
     body.append(text(410, 92, "ATTRIBUTES", 2, CREAM))
-    stats = [("RUST", 9, "96"), ("C", 8, "88"), ("PYTHON", 7, "74"), ("LINUX", 9, "92")]
+    stats = [("C++", 9, "96"), ("C", 8, "88"), ("CUDA", 7, "74"), ("PYTHON", 8, "88")]
     y = 136
     for name, filled, val in stats:
         body.append(text(410, y - 1, name, 2, CREAM))

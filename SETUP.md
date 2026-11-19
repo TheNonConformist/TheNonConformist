@@ -35,7 +35,7 @@ gh secret set METRICS_TOKEN --repo TheNonConformist/TheNonConformist
       Console-Based Social Network, Traffic Collector, plus two active repos.
 - [ ] Profile → Edit profile → add **4 social links**, photo, location, pronouns.
 - [ ] Profile → **Show Achievements** toggle on.
-- [ ] Status is already set to `reading rust-lang internals`.
+- [ ] Status is set to `exploring CUDA, HPC and GPU systems`.
 
 ## Customize
 

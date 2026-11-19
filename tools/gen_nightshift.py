@@ -146,7 +146,8 @@ def build():
     # screen text
     lines = [
         ("$", "ssh night@localhost"),
-        (">", "mount /dev/rust"),
+        (">", "mount /dev/cuda"),
+        (">", "profile --hpc"),
         (">", "init --systems"),
         (">", "ship --fast"),
         ("", "[ OK ] ready"),
@@ -214,8 +215,8 @@ def build():
                    opacity=0))
 
     # ---------------- status readout ----------------
-    rows = [("OS", "ARCH", CREAM), ("SHELL", "ZSH", CREAM),
-            ("LANG", "RUST", RUST), ("MODE", "SHIP", GREEN)]
+    rows = [("OS", "ARCH", CREAM), ("GPU", "CUDA", CREAM),
+            ("LANG", "C++", RUST), ("MODE", "SHIP", GREEN)]
     sy = 238
     for label, value, color in rows:
         b.append(text(950, sy, label, 2, MUTED))

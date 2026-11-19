@@ -16,12 +16,12 @@
 
 I build systems software and care about what happens below the abstraction.
 
-Mostly **Rust** and **C**, with Python for the ML and glue layer. I like tight
+Mostly **C** and **C++**, with Python for the ML and glue layer. I like tight
 binaries, explicit error handling, and benchmarks that don't lie.
 
 ```txt
-▸ currently   digging through rust-lang/rust + rust-clippy internals
-▸ interested  edge inference · runtimes · low-level networking
+▸ currently   exploring CUDA, HPC, GPU architecture and ML systems
+▸ interested  HPC · CUDA/GPU · ML systems · runtimes · low-level networking
 ▸ daily driver Arch + Hyprland · Neovim · zsh
 ▸ open to     OSS collaboration and problems that bite back
 ```
@@ -31,7 +31,7 @@ binaries, explicit error handling, and benchmarks that don't lie.
 ## ▍ stack
 
 ```txt
-RUST · C · PYTHON · LUA · BASH · LINUX · ARCH · NEOVIM · TMUX · DOCKER · GIT
+C · C++ · CUDA · PYTHON · BASH · LINUX · ARCH · NEOVIM · TMUX · DOCKER · GIT
 ```
 
 <br />
