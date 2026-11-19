@@ -14,9 +14,9 @@ PANEL = "#10141c"
 CREAM = "#e8e3d5"
 MUTED = "#7d8290"
 DIM = "#2a303c"
-RUST = "#e2603f"
-RUST_HI = "#ff9a6b"
-RUST_DK = "#a33f2a"
+ORANGE = "#e2603f"
+ORANGE_HI = "#ff9a6b"
+ORANGE_DK = "#a33f2a"
 GREEN = "#3ddc84"
 CYAN = "#58c8d8"
 
@@ -148,7 +148,7 @@ def meter(x, y, filled, total=10):
     out = []
     for i in range(total):
         out.append(rect(x + i * (seg_w + gap), y, seg_w, h,
-                        RUST if i < filled else "#1a1f28"))
+                        ORANGE if i < filled else "#1a1f28"))
     return f'<g>{"".join(out)}</g>'
 
 
@@ -211,7 +211,7 @@ def build():
         "......LL.LL.LL.LL.......",
         "......LL.LL.LL.LL.......",
     ]
-    crab = {"B": RUST, "H": RUST_HI, "C": "#ff7a54", "S": RUST_DK,
+    crab = {"B": ORANGE, "H": ORANGE_HI, "C": "#ff7a54", "S": ORANGE_DK,
             "L": "#f4865f", "E": CREAM, "@": BG, "M": BG}
     cx, cy, cell = 114, 90, 8
     body.append(pixel_map(cx, cy, cell, crab_rows, crab))
@@ -229,7 +229,7 @@ def build():
 
     body.append(text(60, 240, "THE NONCONFORMIST", 2, CREAM))
     body.append(text(60, 268, "SYSTEMS ENGINEER", 2, MUTED))
-    body.append(text(60, 308, "LVL 22", 3, RUST))
+    body.append(text(60, 308, "LVL 22", 3, ORANGE))
     body.append(text(200, 312, "XP 22/128", 2, DIM))
     body.append(text(60, 344, "EST. 2025", 2, DIM))
 

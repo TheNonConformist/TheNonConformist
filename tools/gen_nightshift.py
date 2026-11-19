@@ -13,7 +13,7 @@ CREAM = "#d8d3c6"
 DIMCREAM = "#b9b4a6"
 MUTED = "#6d7280"
 DIM = "#242a35"
-RUST = "#e2603f"
+ORANGE = "#e2603f"
 NEON = "#ff5a6e"
 GREEN = "#3ddc84"
 SCREEN = "#04120a"
@@ -102,7 +102,7 @@ def build():
         for wy in range(y + 10, y + h - 8, 12):
             for wx in range(x + 8, x + w - 8, 12):
                 if random.random() < 0.42:
-                    b.append(rect(wx, wy, 3, 4, random.choice([GREEN, CREAM, RUST]),
+                    b.append(rect(wx, wy, 3, 4, random.choice([GREEN, CREAM, ORANGE]),
                                   'opacity="0.55"'))
 
     # rain
@@ -180,7 +180,7 @@ def build():
     b.append(rect(398, 296, 32, 34, "#1a1f28",
                   f'stroke="{DIMCREAM}" stroke-width="2" shape-rendering="crispEdges"'))
     b.append(rect(430, 304, 8, 12, "none", f'stroke="{DIMCREAM}" stroke-width="3"'))
-    b.append(rect(404, 300, 20, 3, RUST))
+    b.append(rect(404, 300, 20, 3, ORANGE))
     for i, sx in enumerate((406, 414, 422)):
         b.append(
             f'<rect x="{sx}" y="300" width="3" height="3" fill="{CREAM}" opacity="0">'
@@ -216,7 +216,7 @@ def build():
 
     # ---------------- status readout ----------------
     rows = [("OS", "ARCH", CREAM), ("GPU", "CUDA", CREAM),
-            ("LANG", "C++", RUST), ("MODE", "SHIP", GREEN)]
+            ("LANG", "C++", ORANGE), ("MODE", "SHIP", GREEN)]
     sy = 238
     for label, value, color in rows:
         b.append(text(950, sy, label, 2, MUTED))
