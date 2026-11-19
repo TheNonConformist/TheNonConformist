@@ -71,7 +71,7 @@ binaries, explicit error handling, and benchmarks that don't lie.
 ### `❯ ./metrics --all`
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/TheNonConformist/TheNonConformist/main/github-metrics.svg" alt="GitHub metrics: languages, contribution calendar, stars" />
+  <img width="72%" src="https://raw.githubusercontent.com/TheNonConformist/TheNonConformist/main/github-metrics.svg" alt="GitHub metrics: languages, contribution calendar, lines of code" />
 </div>
 
 <br />
