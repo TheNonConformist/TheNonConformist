@@ -1,0 +1,6 @@
+settings:
+  max_lines: 4
+  commit_msg: "chore: update recent activity"
+  disabled_events:
+    - comments
+  url_text: "{REPO} {ID}"
