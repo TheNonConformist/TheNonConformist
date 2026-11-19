@@ -354,7 +354,7 @@ def quests_card(repos):
         b.append(text(x + 380, y + 108, f"PUSH {age}", 2, accent))
 
     b.append(text(40, 386, "MORE AT GITHUB.COM/THENONCONFORMIST", 2, MUTED))
-    b.append(text(1140, 386, "SORTED BY LAST PUSH", 2, DIM, anchor="end"))
+    b.append(text(1140, 386, "FEATURED REPOS", 2, DIM, anchor="end"))
     return svg_doc(w, h, "".join(b), "Pixel quest log")
 
 
