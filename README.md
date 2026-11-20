@@ -64,7 +64,10 @@ C · C++ · CUDA · PYTHON · BASH · LINUX · ARCH · NEOVIM · TMUX · DOCKER 
 <div align="center">
 
 <!--RECENT_ACTIVITY:start-->
-_warming up…_
+1. ✌️ Released [Part 2 final — Railway Reservation System (Team E15)](https://github.com/ThouSyntaxTerror/SE_MiniProject_Railway_Reservation/releases/tag/part2-final) in [ThouSyntaxTerror/SE_MiniProject_Railway_Reservation](https://github.com/ThouSyntaxTerror/SE_MiniProject_Railway_Reservation)<br>
+2. ❗️ Opened issue [#32](https://github.com/ThouSyntaxTerror/SE_MiniProject_Railway_Reservation/issues/32) in [ThouSyntaxTerror/SE_MiniProject_Railway_Reservation](https://github.com/ThouSyntaxTerror/SE_MiniProject_Railway_Reservation)<br>
+3. 👍 Approved [#28](https://github.com/ThouSyntaxTerror/SE_MiniProject_Railway_Reservation/pull/28#pullrequestreview-5971393967) in [ThouSyntaxTerror/SE_MiniProject_Railway_Reservation](https://github.com/ThouSyntaxTerror/SE_MiniProject_Railway_Reservation)<br>
+4. 👍 Approved [#21](https://github.com/ThouSyntaxTerror/SE_MiniProject_Railway_Reservation/pull/21#pullrequestreview-5970053738) in [ThouSyntaxTerror/SE_MiniProject_Railway_Reservation](https://github.com/ThouSyntaxTerror/SE_MiniProject_Railway_Reservation)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </div>
